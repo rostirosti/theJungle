@@ -2,10 +2,6 @@
 
 ## run the code to see the jungle work per the following spec:
 
-# Jungle JS (featuring Classes)
-
-## Part 1: Use your knowledge of classes, inheritence, and the `new` keyword to create the structures necessary to match the conditions below...
-
 1. A jungle contains several species of animals: tigers, monkeys and snakes.
 2. All animals can do three things: make a sound, eat food, and sleep.
 3. Each species of animal knows how many others of its kind exist (think global values)
